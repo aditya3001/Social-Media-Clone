@@ -43,7 +43,7 @@ export function createInnerTRPCContext(opts: CreateContextOptions){
     revalidateSSG : opts.revalidateSSG,
     prisma,
   };
-};
+}
 
 /**
  * This is the actual context you will use in your router. It will be used to process every request
