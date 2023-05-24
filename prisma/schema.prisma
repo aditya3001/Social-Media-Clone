@@ -20,6 +20,7 @@ model Tweet {
 
     @@index([userId])
     likes Like[]
+    @@unique([createdAt, id])
 }
 model Like {
     userId String
