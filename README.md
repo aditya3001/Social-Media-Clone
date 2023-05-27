@@ -42,3 +42,26 @@ Authentication Page
 <img width="953" alt="image" src="https://github.com/aditya3001/Social-Media-Clone/assets/68020519/4f40fe29-5c7c-4ff7-bd89-582ed6c959ea">
 
 
+Authenticated HomePage
+    - Recent Tab
+
+<img width="954" alt="image" src="https://github.com/aditya3001/Social-Media-Clone/assets/68020519/3a0fe660-7000-4b9e-b4d0-591dc5fa7d0e">
+
+    - Following Tab
+ 
+ <img width="953" alt="image" src="https://github.com/aditya3001/Social-Media-Clone/assets/68020519/765feb2e-2b50-49b2-b609-6f71bf415957">
+
+Profile Page (Self)
+
+<img width="957" alt="image" src="https://github.com/aditya3001/Social-Media-Clone/assets/68020519/1b08fa7f-377f-4d7e-ab05-18aeff6dccb3">
+
+Profile Page (Others)
+
+<img width="960" alt="image" src="https://github.com/aditya3001/Social-Media-Clone/assets/68020519/e36a5a67-fb5e-4794-83c8-5fc1fa660dde">
+
+Follow Functionality
+
+<img width="960" alt="image" src="https://github.com/aditya3001/Social-Media-Clone/assets/68020519/428d8534-f883-48f8-b81f-f45725749e87">
+
+<img width="953" alt="image" src="https://github.com/aditya3001/Social-Media-Clone/assets/68020519/2f9ec723-46cf-4fd2-a382-2710a2820389">
+
